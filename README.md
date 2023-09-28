@@ -1,4 +1,4 @@
-# Rio-Sul-Refrigeracao
+# Projeto-Refrigeracao
  Site de Refrigeração voltado para Camara Fria
 
-Se quoser dar uma olhada, fique a vontade.  https://riosul-refrigeracao.netlify.app
+Fique a Vontade para dar uma olhada, e se quiser me enviar um feedback, agradeço. 
