@@ -1,5 +1,5 @@
 # Projeto-Refrigeracao
- Site de Refrigeração voltado para Refrigeração Camara Fria
+ Site voltado para Refrigeração Camara Fria
 
 Nesse projeto, foi utilizado HTML5, CSS e Bootstrap. 
 
